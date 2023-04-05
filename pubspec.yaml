@@ -1,7 +1,7 @@
 name: search_overlay
 description: A new Flutter package project.
 version: 0.0.1
-# homepage:
+homepage: https://github.com/Vafin84/search_overlay
 
 environment:
   sdk: ">=2.19.6 <3.0.0"
